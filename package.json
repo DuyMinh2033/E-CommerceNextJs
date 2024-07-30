@@ -9,16 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "@wix/ecom": "^1.0.668",
+    "@wix/redirects": "^1.0.51",
+    "@wix/sdk": "^1.12.8",
+    "@wix/stores": "^1.0.168",
+    "dompurify": "^3.1.6",
+    "html-to-text": "^9.0.5",
+    "isomorphic-dompurify": "^2.14.0",
+    "js-cookie": "^3.0.5",
+    "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "react-icons": "^5.2.1",
+    "react-toastify": "^10.0.5",
+    "zustand": "^4.5.4"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@types/html-to-text": "^9.0.4",
+    "@types/js-cookie": "^3.0.6",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
   }
 }
